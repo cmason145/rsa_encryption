@@ -38,8 +38,8 @@ Encryptor:
 - -h : displays program synopsis and usage.
 
 Decryptor:
-• -i : specifies the input file to decrypt (default: stdin).
-• -o : specifies the output file to decrypt (default: stdout).
-• -n : specifies the file containing the private key (default: rsa.priv).
-• -v : enables verbose output.
-• -h : displays program synopsis and usage.
+- -i : specifies the input file to decrypt (default: stdin).
+- -o : specifies the output file to decrypt (default: stdout).
+- -n : specifies the file containing the private key (default: rsa.priv).
+- -v : enables verbose output.
+- -h : displays program synopsis and usage.
