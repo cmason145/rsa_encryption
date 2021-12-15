@@ -1,9 +1,9 @@
 # RSA Encryption
 
-Explanation of program
+## Explanation of program
 The program is meant to utilize RSA encryption to encrypt and decrypt files, making it so that if one doesn't know the private key, it is nearly impossible to read the original message.
 
-Files to submit:
+Files included:
 
 rsa.{c, h}
 numtheory.{c, h}
@@ -16,7 +16,7 @@ README.md
 DESIGN.pdf
 
 
-How to run the files
+## How to run the files
 The tsp file can be run by running make all, then using the command line options. There are three binary files which will be created: keygen, decrypt, and encrypt. 
 
 ## Command line options
